@@ -13,3 +13,11 @@ Primero `fork` and `clone` este repositorio.
 
 - Corre el comando `npm i` en el directorio.
 - Corre el comando `npm start` para iniciar la app en `http://localhost:3000`. 
+
+### Tecnologías :boom:
+
+JavaScript(ES6) | React.js | Hooks | Styled Components | HTML5 | CSS3 | Testing con React | DevExtreme React Scheduler
+
+### Autora :woman: 
+Hello, it´s me! Loreto Álvarez, Full-stack Web Developer.Si quieres saber más sobre mi, contacta conmigo en:
+<i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a></i> or <i><a href = "mailto: loretoavoces@gmail.com">Sending an Email</a></i> <br />
