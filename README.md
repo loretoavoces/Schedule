@@ -9,8 +9,7 @@ El reto consistía en crear un calendario en el que, clickando en los días, apa
 
 ### Setup :rocket:
 
-First of all `fork` and `clone` this repository.
+Primero `fork` and `clone` este repositorio.
 
-#### Client
-- Run `npm i` on the directory.
-- Run `npm start` command. 
+- Corre el comando `npm i` en el directorio.
+- Corre el comando `npm start` para iniciar la app en `http://localhost:3000`. 
