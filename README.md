@@ -19,5 +19,5 @@ Primero `fork` and `clone` este repositorio.
 JavaScript(ES6) | React.js | Hooks | Styled Components | HTML5 | CSS3 | Testing con React | DevExtreme React Scheduler
 
 ### Autora :woman: 
-Hello, it´s me! Loreto Álvarez, Full-stack Web Developer. Si quieres saber más sobre mi o mis proyectos, contacta conmigo en:
-<i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a></i> or <i><a href = "mailto: loretoavoces@gmail.com">Sending an Email</a></i> <br />
+Hello, it´s me! Loreto Álvarez, Full-stack Web Developer. Si quieres saber más sobre mí o mis proyectos, contacta conmigo en:
+<i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a></i> o <i><a href = "mailto: loretoavoces@gmail.com">Email</a></i> <br />
