@@ -1,4 +1,4 @@
-## Calendario
+## Calendario :calendar:
 
 El reto consistía en crear un calendario en el que, clickando en los días, apareciese una modal con un formulario para crear citas, con título y horario de comienzo y fin de la cita/actividad. 
 
