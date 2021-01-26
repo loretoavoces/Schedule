@@ -1,6 +1,6 @@
 import React from 'react'
 import { render, screen } from '@testing-library/react'
-import ScheduleHooks from '../components/ScheduleHooks/ScheduleHooks'
+import ScheduleHooks from '../components/pages/ScheduleHooks/ScheduleHooks'
 import '@testing-library/jest-dom/extend-expect'
 
 test('<ScheduleHooks/> ', () => {
