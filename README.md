@@ -4,7 +4,7 @@ El reto consistía en crear un calendario en el que, clickando en los días, apa
 
 
 
-<img src="https://res.cloudinary.com/loretoavoces/image/upload/v1611658234/fotos-navidad/Captura_de_pantalla_de_2021-01-26_11-12-43_d8tzvj.png"></img>
+<img src="https://res.cloudinary.com/loretoavoces/image/upload/v1611685387/fotos-navidad/Captura_de_pantalla_de_2021-01-26_19-21-49_lsrqea.png"></img>
 
 
 ### Setup :rocket:
