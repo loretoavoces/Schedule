@@ -1,6 +1,6 @@
 ## Calendario :calendar:
 
-El reto consistía en crear un calendario en el que, clickando en los días, apareciese una modal con un formulario para crear citas, con título y horario de comienzo y fin de la cita/actividad. 
+El reto consistía en crear un calendario en el que, clickando en los días, apareciese una modal con un formulario para crear citas, con título y horario de comienzo y fin de la cita/actividad.
 
 
 
@@ -16,7 +16,7 @@ Primero `fork` and `clone` este repositorio.
 
 ### Tecnologías :boom:
 
-JavaScript(ES6) | React.js | Hooks | Styled Components | HTML5 | CSS3 | Testing con React | DevExtreme React Scheduler
+JavaScript(ES6) | React.js | Hooks | Styled Components | HTML5 | CSS3 | Testing con React | DevExtreme React Scheduler |
 
 ### Autora :woman: 
 Hello, it´s me! Loreto Álvarez, Full-stack Web Developer. Si quieres saber más sobre mí o mis proyectos, contacta conmigo en:
