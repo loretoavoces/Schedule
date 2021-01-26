@@ -42,7 +42,7 @@ export default class Schedule extends Component {
         this.setState(({ data }) => {
             if (added) {
                 const addNew = data.length > 0 ? data + 1 : 0
-                data = [...data, {addNew, ...added}]
+                data = [...data, { addNew, ...added }]
             }
             return { data }
         })
